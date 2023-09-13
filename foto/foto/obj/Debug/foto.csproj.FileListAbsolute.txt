@@ -1,0 +1,12 @@
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\bin\Debug\foto.exe.config
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\bin\Debug\foto.exe
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\bin\Debug\foto.pdb
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.csproj.AssemblyReference.cache
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.Li.resources
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.menu.resources
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.Properties.Resources.resources
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.csproj.GenerateResource.cache
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.csproj.CoreCompileInputs.cache
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.exe
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.pdb
