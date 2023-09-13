@@ -118,22 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1675375234_beolin-club-p-mondshtat-peizazh-risunki-krasivo-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1675375234_beolin-club-p-mondshtat-peizazh-risunki-krasivo-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1679672287_papik-pro-p-li-yue-peizazhi-20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1679672287_papik-pro-p-li-yue-peizazhi-20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-icon-close-2734822" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-icon-close-2734822.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="free-icon-back-left-arrow-circular-button-outline-54623" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\free-icon-back-left-arrow-circular-button-outline-54623.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1679672287_papik-pro-p-li-yue-peizazhi-20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1679672287_papik-pro-p-li-yue-peizazhi-20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="c4f33f2c5a7773687a7e4d7c3b336dc6_2713215508713716129" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\c4f33f2c5a7773687a7e4d7c3b336dc6_2713215508713716129.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="free-icon-close-2734822" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-close-2734822.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Без названия" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Без названия.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

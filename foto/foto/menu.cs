@@ -29,5 +29,13 @@ namespace foto
         {
             Close();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            // Создайте новую форму, которую вы хотите открыть
+            mond form2 = new mond();
+            // Откройте новую форму
+            form2.Show();
+        }
     }
 }

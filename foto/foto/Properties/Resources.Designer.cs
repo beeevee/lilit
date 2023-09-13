@@ -63,6 +63,16 @@ namespace foto.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1675375234_beolin_club_p_mondshtat_peizazh_risunki_krasivo_2 {
+            get {
+                object obj = ResourceManager.GetObject("1675375234_beolin-club-p-mondshtat-peizazh-risunki-krasivo-2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _1679672287_papik_pro_p_li_yue_peizazhi_20 {
             get {
                 object obj = ResourceManager.GetObject("1679672287_papik-pro-p-li-yue-peizazhi-20", resourceCulture);
@@ -116,6 +126,26 @@ namespace foto.Properties {
         internal static System.Drawing.Bitmap images__1_ {
             get {
                 object obj = ResourceManager.GetObject("images (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__2_ {
+            get {
+                object obj = ResourceManager.GetObject("images (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Без_названия {
+            get {
+                object obj = ResourceManager.GetObject("Без названия", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
