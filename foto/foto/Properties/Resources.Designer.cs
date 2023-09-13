@@ -83,6 +83,36 @@ namespace foto.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1679798951_phonoteka_org_p_genshin_lokatsii_art_vkontakte_61 {
+            get {
+                object obj = ResourceManager.GetObject("1679798951_phonoteka-org-p-genshin-lokatsii-art-vkontakte-61", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1689670663_12 {
+            get {
+                object obj = ResourceManager.GetObject("1689670663_12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1690389734_4 {
+            get {
+                object obj = ResourceManager.GetObject("1690389734_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap c4f33f2c5a7773687a7e4d7c3b336dc6_2713215508713716129 {
             get {
                 object obj = ResourceManager.GetObject("c4f33f2c5a7773687a7e4d7c3b336dc6_2713215508713716129", resourceCulture);

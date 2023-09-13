@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="font.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="font.Designer.cs">
+      <DependentUpon>font.cs</DependentUpon>
+    </Compile>
     <Compile Include="Li.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="font.resx">
+      <DependentUpon>font.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Li.resx">
       <DependentUpon>Li.cs</DependentUpon>
     </EmbeddedResource>
@@ -124,6 +133,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1679798951_phonoteka-org-p-genshin-lokatsii-art-vkontakte-61.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1690389734_4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1689670663_12.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

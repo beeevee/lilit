@@ -11,3 +11,4 @@ C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\fot
 C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.exe
 C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.pdb
 C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.mond.resources
+C:\Users\MyBook\OneDrive\Документы\GitHub\lilit\foto\foto\obj\Debug\foto.font.resources

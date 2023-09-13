@@ -37,5 +37,13 @@ namespace foto
             // Откройте новую форму
             form2.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            // Создайте новую форму, которую вы хотите открыть
+            font form2 = new font();
+            // Откройте новую форму
+            form2.Show();
+        }
     }
 }
